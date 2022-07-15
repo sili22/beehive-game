@@ -8,7 +8,7 @@ Bees.java
 Computer.java
 Screen.java
 Menu.java
-Background.jpeg
+Background.jpg
 Hive.png
 Bee.png
 BumblebeeTrack.wav
