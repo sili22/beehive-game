@@ -9,7 +9,6 @@ Computer.java
 Screen.java
 Menu.java
 Background.jpeg
-Background1.jpg
 Hive.png
 Bee.png
 BumblebeeTrack.wav
